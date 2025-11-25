@@ -17,4 +17,6 @@
                            C = 30.000
                        Total Biaya Yang Harus Dikeluarkan adalah = 10.000 + 20.000 + 30.000 = 60.000 - 60.000 * 10% = 54.000 
 - 3. Jelaskan Manfaat Penggunaan widget stack pada tampilan kategori menu di aplikasi Flutter
--Jawaban: Manfaat dari widget stack adalah kita bisa memfokuskan user agar melihat tampilan dengan baik karena membagi tampilan ke stack stack dan juga tampilan yang sebelumnya bisa dihilangkan dan diganti dengan widget yang mau ditampilkan sehingga user lebih focus dan tidak terlalu banyak melihat hal yang tidak perlu               
+-Jawaban: Manfaat dari widget stack adalah kita bisa memfokuskan user agar melihat tampilan dengan baik karena membagi tampilan ke stack stack dan juga tampilan yang sebelumnya bisa dihilangkan dan diganti dengan widget yang mau ditampilkan sehingga user lebih focus dan tidak terlalu banyak melihat hal yang tidak perlu
+
+-LINK Video = https://drive.google.com/drive/folders/1oIbzknOeXOKXsdNScrfAfHiiFUFWcXMb?usp=drive_link 
